@@ -1,0 +1,154 @@
+/* h2.qb-name:before {
+    position: relative;
+    content: "";
+    display: inline-block;
+    width: 3.5rem;
+    height: 3.5rem;
+    transform: rotate(-135deg);
+    margin-left: 0rem;
+    left: -1.7rem;
+    top: 0.7rem;
+}
+
+h2.pick-six:after {
+    position: relative;
+    content: "";
+    display: inline-block;
+    width: 3.5rem;
+    height: 3.5rem;
+    transform: rotate(45deg);
+    margin-left: 0rem;
+    left: 1.7rem;
+    top: 0.7rem;
+} */
+
+/* ****************************** */
+.aaron-rodgers,
+.brett-favre {
+    background: #06332c;
+    color: white;
+    border: 0.2em solid #f3ba3c;
+}
+
+
+
+/* ****************************** */
+.ben-roethlisberger {
+    background: black;
+    color: white;
+    border: 0.2em solid #ffb901;
+}
+
+/* ****************************** */
+.dan-marino {
+    background-color: #02838d;
+    color: white;
+    border: 0.2em solid #fe4901;
+}
+
+/* ****************************** */
+.drew-brees {
+    background: #d3bd8e;
+    border: 0.2em solid #012144;
+}
+
+
+/* ****************************** */
+.eli-manning {
+    background: #132e8c;
+    color: white;
+    border: 0.2em solid #b20032;
+}
+
+
+/* ****************************** */
+.fran-tarkenton {
+    background: #502882;
+    color: white;
+    border: 0.2em solid #ffcd00;
+}
+
+
+/* ****************************** */
+.joe-montana {
+    background: #afa78f;
+    border: 0.2em solid #bc181d;
+}
+
+
+/* ****************************** */
+.john-elway {
+    background: #ee5b16;
+    color: white;
+    border: 0.2em solid #0c42cb;
+}
+
+
+/* ****************************** */
+.matt-ryan {
+    background: black;
+    color: white;
+    border: 0.2em solid #c0011d;
+}
+
+
+/* ****************************** */
+.matthew-stafford {
+    background: #2483e3;
+    color: white;
+    border: 0.2em solid #004bb2;
+}
+
+
+/* ****************************** */
+.peyton-manning {
+    background: #013368;
+    color: white;
+    border: 0.2em solid #f0542b;
+}
+
+
+
+/* ****************************** */
+.philip-rivers {
+    background: #0180c6;
+    color: white;
+    border: 0.2em solid #fcc12c;
+}
+
+
+/* ****************************** */
+.russell-wilson {
+    background: #24293c;
+    color: white;
+    border: 0.2em solid #b7ff3e;
+}
+
+
+/* ****************************** */
+.tom-brady,
+.ryan-fitzpatrick {
+    background: #012144;
+    color: white;
+    border: 0.2em solid #c60d30;
+}
+
+
+/* ****************************** */
+.scott-zolak {
+    background: #1e419c;
+    color: white;
+    border: 0.2em solid #c00a1e;
+}
+
+/* ****************************** */
+.vinny-testaverde {
+    background: #f19b00;
+    border: 0.2em solid #d2001e;
+}
+
+/* ****************************** */
+.warren-moon {
+    background: #5a9de2;
+    border: 0.2em solid #ca1527;
+}
